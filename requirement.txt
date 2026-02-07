@@ -1,17 +1,4 @@
-# IDE / System
-.vscode/
-.DS_Store
-__pycache__/
-*.pyc
-
-# Node / Frontend
-node_modules/
-dist/
-.env
-
-# Backend / Database
-venv/
-.venv/
-backend/__pycache__/
-*.db
-*.sqlite3
+fastapi
+uvicorn
+httpx
+pydantic
